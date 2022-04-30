@@ -53,7 +53,7 @@ function App() {
         {!controller && (
           <h2 className={classes.h2}>
             Days To Your BirthDay:
-            <span>{`  ${remainingDays}: ${hoursUntill}: ${minutesUntil}: ${secondsUntil}`}</span>
+            <span>{`  ${remainingDays} Days: ${hoursUntill}: ${minutesUntil}: ${secondsUntil}`}</span>
           </h2>
         )}
         {controller && (
