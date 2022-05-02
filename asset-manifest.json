@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sarah-Dubbel-25/static/css/main.69701555.chunk.css",
-    "main.js": "/Sarah-Dubbel-25/static/js/main.cef34ed7.chunk.js",
-    "main.js.map": "/Sarah-Dubbel-25/static/js/main.cef34ed7.chunk.js.map",
+    "main.js": "/Sarah-Dubbel-25/static/js/main.06f6a834.chunk.js",
+    "main.js.map": "/Sarah-Dubbel-25/static/js/main.06f6a834.chunk.js.map",
     "runtime-main.js": "/Sarah-Dubbel-25/static/js/runtime-main.9400cc8f.js",
     "runtime-main.js.map": "/Sarah-Dubbel-25/static/js/runtime-main.9400cc8f.js.map",
     "static/js/2.b3f4fc85.chunk.js": "/Sarah-Dubbel-25/static/js/2.b3f4fc85.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.9400cc8f.js",
     "static/js/2.b3f4fc85.chunk.js",
     "static/css/main.69701555.chunk.css",
-    "static/js/main.cef34ed7.chunk.js"
+    "static/js/main.06f6a834.chunk.js"
   ]
 }
