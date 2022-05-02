@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/Sarah-Dubbel-25/static/css/main.223265ba.chunk.css",
-    "main.js": "/Sarah-Dubbel-25/static/js/main.893456e3.chunk.js",
-    "main.js.map": "/Sarah-Dubbel-25/static/js/main.893456e3.chunk.js.map",
+    "main.css": "/Sarah-Dubbel-25/static/css/main.69701555.chunk.css",
+    "main.js": "/Sarah-Dubbel-25/static/js/main.cef34ed7.chunk.js",
+    "main.js.map": "/Sarah-Dubbel-25/static/js/main.cef34ed7.chunk.js.map",
     "runtime-main.js": "/Sarah-Dubbel-25/static/js/runtime-main.9400cc8f.js",
     "runtime-main.js.map": "/Sarah-Dubbel-25/static/js/runtime-main.9400cc8f.js.map",
     "static/js/2.b3f4fc85.chunk.js": "/Sarah-Dubbel-25/static/js/2.b3f4fc85.chunk.js",
     "static/js/2.b3f4fc85.chunk.js.map": "/Sarah-Dubbel-25/static/js/2.b3f4fc85.chunk.js.map",
     "index.html": "/Sarah-Dubbel-25/index.html",
-    "static/css/main.223265ba.chunk.css.map": "/Sarah-Dubbel-25/static/css/main.223265ba.chunk.css.map",
+    "static/css/main.69701555.chunk.css.map": "/Sarah-Dubbel-25/static/css/main.69701555.chunk.css.map",
     "static/js/2.b3f4fc85.chunk.js.LICENSE.txt": "/Sarah-Dubbel-25/static/js/2.b3f4fc85.chunk.js.LICENSE.txt",
-    "static/media/Card.module.css": "/Sarah-Dubbel-25/static/media/dogs.b0c60316.webp"
+    "static/media/Card.module.css": "/Sarah-Dubbel-25/static/media/dogs.b0c60316.webp",
+    "static/media/dog7.5e08cd8f.jpg": "/Sarah-Dubbel-25/static/media/dog7.5e08cd8f.jpg",
+    "static/media/sarah10.bed7ebcd.jpg": "/Sarah-Dubbel-25/static/media/sarah10.bed7ebcd.jpg",
+    "static/media/sarah2.221d077f.PNG": "/Sarah-Dubbel-25/static/media/sarah2.221d077f.PNG",
+    "static/media/sarah3.c84cb68b.PNG": "/Sarah-Dubbel-25/static/media/sarah3.c84cb68b.PNG",
+    "static/media/sarah4.ab294b20.jpg": "/Sarah-Dubbel-25/static/media/sarah4.ab294b20.jpg",
+    "static/media/sarah5.4400e669.jpg": "/Sarah-Dubbel-25/static/media/sarah5.4400e669.jpg",
+    "static/media/sarah6.9b2e2de2.jpg": "/Sarah-Dubbel-25/static/media/sarah6.9b2e2de2.jpg",
+    "static/media/sarah8.bdd104bb.jpg": "/Sarah-Dubbel-25/static/media/sarah8.bdd104bb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9400cc8f.js",
     "static/js/2.b3f4fc85.chunk.js",
-    "static/css/main.223265ba.chunk.css",
-    "static/js/main.893456e3.chunk.js"
+    "static/css/main.69701555.chunk.css",
+    "static/js/main.cef34ed7.chunk.js"
   ]
 }
